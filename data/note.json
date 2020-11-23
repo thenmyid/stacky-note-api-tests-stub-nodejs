@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": [],
+    "stackCodes": [],
+    "noteCode": "1 An-Introduction-to-LAMP-LEMP-MEAN-XAMPP-WAMP-and-AMPPS-Stack",
+    "type": "articles",
+    "name": "1 An Introduction to LAMP, LEMP, MEAN, XAMPP, WAMP and AMPPS Stack",
+    "description": "Are you confused about LAMP, LEMP, MEAN, XAMPP, WAMP, and AMPPS stack terminology? Let’s find out about them!",
+    "link": "https://geekflare.com/lamp-lemp-mean-xampp-stack-intro"
+  },
+  {
+    "id": 2,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": [],
+    "stackCodes": [],
+    "noteCode": "2 An-Introduction-to-LAMP-LEMP-MEAN-XAMPP-WAMP-and-AMPPS-Stack",
+    "type": "books",
+    "name": "2 An Introduction to LAMP, LEMP, MEAN, XAMPP, WAMP and AMPPS Stack",
+    "description": "Are you confused about LAMP, LEMP, MEAN, XAMPP, WAMP, and AMPPS stack terminology? Let’s find out about them!",
+    "link": "https://geekflare.com/lamp-lemp-mean-xampp-stack-intro"
+  },
+  {
+    "id": 3,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": [],
+    "stackCodes": [],
+    "noteCode": "3 An-Introduction-to-LAMP-LEMP-MEAN-XAMPP-WAMP-and-AMPPS-Stack",
+    "type": "talks",
+    "name": "3 An Introduction to LAMP, LEMP, MEAN, XAMPP, WAMP and AMPPS Stack",
+    "description": "Are you confused about LAMP, LEMP, MEAN, XAMPP, WAMP, and AMPPS stack terminology? Let’s find out about them!",
+    "link": "https://geekflare.com/lamp-lemp-mean-xampp-stack-intro"
+  },
+  {
+    "id": 4,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": [],
+    "stackCodes": [],
+    "noteCode": "4 An-Introduction-to-LAMP-LEMP-MEAN-XAMPP-WAMP-and-AMPPS-Stack",
+    "type": "examples",
+    "name": "4 An Introduction to LAMP, LEMP, MEAN, XAMPP, WAMP and AMPPS Stack",
+    "description": "Are you confused about LAMP, LEMP, MEAN, XAMPP, WAMP, and AMPPS stack terminology? Let’s find out about them!",
+    "link": "https://geekflare.com/lamp-lemp-mean-xampp-stack-intro"
+  }
+]

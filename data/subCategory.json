@@ -1,0 +1,32 @@
+[
+  {
+      "id": 1,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCode": "lamp",
+      "name": "LAMP"
+  },
+  {
+      "id": 2,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCode": "lemp",
+      "name": "LEMP"
+  },
+  {
+      "id": 3,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCode": "mern",
+      "name": "MERN"
+  },
+  {
+      "id": 4,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCode": "mevn",
+      "name": "MEVN"
+  },
+  {
+      "id": 5,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCode": "elk",
+      "name": "ELK"
+  }
+]

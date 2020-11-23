@@ -1,0 +1,107 @@
+[
+  {
+      "id": 1,
+      "categoryCodes": ["stack-bundle"],
+      "subCategoryCodes": ["lamp", "lemp"],
+      "stackCode": "linux",
+      "name": "Linux"
+  },
+  {
+    "id": 2,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lamp"],
+    "stackCode": "apache",
+    "name": "Apache"
+  },
+  {
+    "id": 3,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lamp", "lemp"],
+    "stackCode": "mysql",
+    "name": "MySQL"
+  },
+  {
+    "id": 4,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lamp", "lemp"],
+    "stackCode": "php",
+    "name": "PHP"
+  },
+  {
+    "id": 5,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lamp"],
+    "stackCode": "perl",
+    "name": "Perl"
+  },
+  {
+    "id": 6,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lamp"],
+    "stackCode": "python",
+    "name": "Python"
+  },
+  {
+    "id": 7,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["lemp"],
+    "stackCode": "nginx",
+    "name": "Nginx"
+  },
+  {
+    "id": 8,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["mern", "mevn"],
+    "stackCode": "mongodb",
+    "name": "MongoDB"
+  },
+  {
+    "id": 9,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["mern", "mevn"],
+    "stackCode": "express",
+    "name": "Express"
+  },
+  {
+    "id": 10,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["mern"],
+    "stackCode": "react",
+    "name": "React"
+  },
+  {
+    "id": 11,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["mern", "mevn"],
+    "stackCode": "nodejs",
+    "name": "Node.js"
+  },
+  {
+    "id": 12,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["mevn"],
+    "stackCode": "vue",
+    "name": "Vue"
+  },
+  {
+    "id": 13,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["elk"],
+    "stackCode": "elasticsearch",
+    "name": "Elasticsearch"
+  },
+  {
+    "id": 14,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["elk"],
+    "stackCode": "logstash",
+    "name": "Logstash"
+  },
+  {
+    "id": 15,
+    "categoryCodes": ["stack-bundle"],
+    "subCategoryCodes": ["elk"],
+    "stackCode": "kibana",
+    "name": "Kibana"
+  }
+]
